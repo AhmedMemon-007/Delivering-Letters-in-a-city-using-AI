@@ -10,7 +10,7 @@
 
 A compact, educational reinforcement learning project where an agent (the “postman”) learns, via **tabular Q‑learning**, to navigate an **11×11** city grid and deliver letters to a fixed destination.
 
-> **Single‑file project:** `Q-LEARNING (1).ipynb` (Jupyter Notebook)
+> **Single‑file project:** `Q-LEARNING.ipynb` (Jupyter Notebook)
 
 ---
 
