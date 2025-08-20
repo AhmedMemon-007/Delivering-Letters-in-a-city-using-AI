@@ -69,7 +69,7 @@ pip install numpy notebook
 jupyter notebook
 ```
 
-Open **`Q-LEARNING (1).ipynb`** and **Run All** cells.
+Open **`Q-LEARNING.ipynb`** and **Run All** cells.
 
 > Tip: For reproducibility, add `np.random.seed(42)` near the top of the notebook.
 
